@@ -1,0 +1,22 @@
+{
+  "name": "adventure-forks",
+  "version": "1.0.0",
+  "description": "A sample web application for Azure Education Program that is built over Adventure Works database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EPAM-HeorhiParynau/adventure-forks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EPAM-HeorhiParynau/adventure-forks/issues"
+  },
+  "homepage": "https://github.com/EPAM-HeorhiParynau/adventure-forks#readme",
+  "dependencies": {
+    "@microsoft/applicationinsights-web": "^2.5.9"
+  }
+}
